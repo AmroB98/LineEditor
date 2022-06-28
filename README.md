@@ -12,5 +12,5 @@ Used to process a line, by represeting each character in a linked-list, it makes
 ![UML shows the design](https://github.com/AmroB98/LineEditor/blob/main/UML.png?raw=true)
 
 
-# how to start using 
+## how to start using 
 run the java script edit.java and print H !
