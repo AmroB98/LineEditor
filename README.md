@@ -9,7 +9,7 @@ To provide easy and simple indexing to specific lines, it stores lines which are
 2- Linked-lists:
 Used to process a line, by represeting each character in a linked-list, it makes interacting with characters and editing (i.e; using E command) much efficent.
 
-![UML shows the design](https://github.com/AmroB98/LineEditor/blob/UML.png?raw=true)
+![UML shows the design](https://github.com/AmroB98/LineEditor/blob/main/UML.png?raw=true)
 
 
 
